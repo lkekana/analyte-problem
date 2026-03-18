@@ -1,4 +1,4 @@
-# Cryptarithm Solver
+# Analyte Cryptarithm Solution
 
 A Python-based solver for the cryptarithmetic puzzle featured in [Analyte's Graduate Program](https://www.analyte.co.za) application (Dec 2025).
 
